@@ -1,1 +1,1 @@
-# Healthify---an-Android-Application
+# Healthify-an-Android-Application

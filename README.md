@@ -1,4 +1,4 @@
-# FirstAid
+# Healthify an FirstAid and Accident Report Generator Android App
 First Aid Android App used to guide first respondents at the scene of an incident
 
 The First Aid App aims to assist users in performing to the best of their ability during first aid incidents: by having a guide to reference and follow; helping them to stay calm. Further features are implemented to assist in this process, such as a quick dial to emergency services and display of the user’s current location.

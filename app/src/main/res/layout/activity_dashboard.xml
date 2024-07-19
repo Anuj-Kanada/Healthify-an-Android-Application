@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dashboard">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@color/grey"
+        >
+
+        <Button
+            android:id="@+id/firstAidKitId"
+            android:text="First Aid Kit"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:drawableLeft="@drawable/iconfirst"
+
+
+            />
+
+        <Button
+            android:id="@+id/burnsId"
+            android:text="Burns"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:drawableLeft="@drawable/burns"
+            />
+        <Button
+            android:id="@+id/splintersId"
+            android:text="Splinters"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:drawableLeft="@drawable/splinters"
+            />
+
+        <Button
+            android:id="@+id/feverId"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/fever"
+            android:text="Fever"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/sprainsId"
+            android:text="Sprains and strains"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:drawableLeft="@drawable/sprains"
+            />
+        <Button
+            android:id="@+id/nosebleedsId"
+            android:text="Nosebleeds"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:drawableLeft="@drawable/nose"
+
+            />
+
+        <Button
+            android:id="@+id/cutsId"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/scrap"
+            android:text="Cuts and scraps"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+
+            />
+
+        <Button
+            android:id="@+id/bitesId"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/animalbites"
+            android:text="Animal Bites and Insect Stings"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+
+            />
+
+        <Button
+            android:id="@+id/foodPoisonId"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/poison"
+            android:text="Food Poisoning"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+
+            />
+
+        <Button
+            android:id="@+id/strokeId"
+            android:text="Stroke"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:drawableLeft="@drawable/heartattack"
+
+            />
+
+        <Button
+            android:id="@+id/aboutId"
+            android:text="About"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/about_us"
+
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

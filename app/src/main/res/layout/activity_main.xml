@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dashboard"
+    android:background="@drawable/bg_bg"
+    >
+
+    <!--    <Button-->
+    <!--        android:id="@+id/buttonSend"-->
+    <!--        android:layout_width="fill_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:text="Send" />-->
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="120dp"
+        app:layout_constraintBottom_toTopOf="@+id/alButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/new_logo" />
+
+    <Button
+        android:id="@+id/alButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_marginTop="0dp"
+        android:text="ALERT"
+
+        android:textSize="25sp"
+        android:textColor="#F8D006"
+        android:background="@drawable/albutton_bg"
+
+        >
+
+
+    </Button>
+    <Button
+        android:id="@+id/dbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_below="@+id/alButton"
+        android:layout_marginTop="10dp"
+        android:text="DashBoard"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_bg"
+        android:onClick="opendashboard"
+        >
+
+
+    </Button>
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_below="@+id/dbutton"
+        android:layout_marginTop="10dp"
+        android:text="START"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_bg"
+
+        >
+
+
+    </Button>
+    <Button
+        android:id="@+id/viewReportsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_below="@+id/startButton"
+        android:layout_marginTop="10dp"
+        android:text="VIEW REPORT"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_bg"
+
+        >
+
+
+    </Button>
+
+
+
+
+
+
+
+</RelativeLayout>

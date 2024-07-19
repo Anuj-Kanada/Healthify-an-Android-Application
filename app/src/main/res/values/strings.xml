@@ -1,0 +1,295 @@
+<resources>
+
+    <string name="app_name">FirstAid</string>
+    <string name="title_activity_first_aid">FirstAidActivity</string>
+
+    <string name="page0">Safe to Approach?"</string>
+    <string name="page0_choice1">Yes</string>
+    <string name="page0_choice2">No</string>
+
+    <string name="page1">Removable Danger?"</string>
+    <string name="page1_choice1">Yes</string>
+    <string name="page1_choice2">No - Call 108</string>
+
+    <string name="page2">Severe Bleed"</string>
+    <string name="page2_choice1">Yes</string>
+    <string name="page2_choice2">No</string>
+
+    <string name="page3">Apply Indirect Pressure and Tourniquet"</string>
+
+    <string name="page4">Are they Responsive?"</string>
+    <string name="page4_choice1">Yes</string>
+    <string name="page4_choice2">No</string>
+
+
+    <string name="page5">Loading Timer"</string>
+
+    <string name="page6">Get Help / Start CPR"</string>
+
+    <string name="page7">Brain hemorrhage?"</string>
+
+    <string name="page8">Loading Report"</string>
+
+    <string name="done_button_text">Done</string>
+    <string name="title_activity_quick_call">Map</string>
+    <string name="view_report">View Report</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="view_reports">View Reports</string>
+    <string name="logo">logo</string>
+    <string name="call_108">Call 108</string>
+    <string name="voice_input">Voice Input</string>
+    <string name="name">Name</string>
+    <string name="next_question">Next Question</string>
+    <string name="speech_to_text_translation">Speech to text translation:</string>
+    <string name="location">Location:</string>
+    <string name="guide_start">Guide Start:</string>
+    <string name="save_report">Save Report</string>
+    <string name="incident_report">Incident Report</string>
+    <string name="saved_reports">Saved Reports</string>
+    <string name="delete_all">Delete All</string>
+    <string name="check_breathing">Check Breathing  Press Start for 10 Second Timer</string>
+    <string name="_0_1_breaths">0-1 BREATHS</string>
+    <string name="_2_breaths">2+ BREATHS</string>
+    <string name="home">Home</string>
+    <string name="name_your_report">Name Your Report :</string>
+    <string name="report_name">Report Name</string>
+
+
+    <string name="How_to_make_first_aid_kit">
+        <b>How do I make a first aid kit?\n\n</b>
+
+    A well-stocked first aid kit is a must-have for treating minor injuries at home and on the go.\n
+        You can buy a first aid kit or put one together on your own. Keep your supplies in a sturdy,
+        clear plastic box so you can see what’s inside.\n\n
+</string>
+    <string name="What_should_be_in_my_first_aid_kit">
+       <b>What should be in my first aid kit?\n\n</b>
+1.	Adhesive tape\n
+2.	Alcohol wipes\n
+3.	Allergy medicine\n
+4.	Aloe vera gel\n
+5.	Antibiotic ointment\n
+6.	Bandages in different sizes\n
+7.	Calamine lotion\n
+8.	Cold packs\n
+9.	Elastic bandages\n
+10.	Gauze rolls and pads\n
+11.	Hand sanitizer (for your travel first aid kit)\n
+12.	Hydrocortisone cream\n
+13.	Latex-free gloves\n
+14.	Pain relievers like acetaminophen and ibuprofen\n
+15.	Saline wound wash\n
+16.	Scissors and tweezers\n
+
+    </string>
+    <string name="Cuts_and_Scrapes">
+
+       <b>How do I treat a minor cut or scrape?\n\n</b>
+        Follow these steps to keep cuts clean and prevent infections and scars : \n
+1.	Wash your hands. First, wash up with soap and water so you don’t get bacteria into the cut and cause an infection.
+        If you’re on the go, use hand sanitizer.\n
+
+2.	Stop the bleeding. Put pressure on the cut with a gauze pad or clean cloth. Keep the pressure on for a few minutes.\n
+3.	Clean the wound. Once you’ve stopped the bleeding, rinse the cut under cool running water or use a saline wound wash.\n
+        Clean the area around the wound with soap and a wet washcloth. Don’t get soap in the cut, because it can irritate the skin.\n
+        And don’t use hydrogen peroxide or iodine, which could irritate the cut.\n
+4.	Remove any dirt or debris. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut.\n\n
+
+        <b>When do you need to call your doctor?\n\n</b>
+Check with your doctor or go to the emergency room if : \n\n
+5.	The cut is deep, long, or the edges are jagged. You may need stitchesand a tetanus shot.\n
+6.	The cut or scrape is from a dirty or rusty object. You may need a tetanus shot.\n
+7.	The injury is from an animal or human bite.\n
+8.	You can’t stop the bleeding with direct pressure.\n
+9.	You can’t get dirt out of the wound.\n
+10.	The cut is on your face or near a joint, like on your fingers.\n
+11.	The skin around the cut gets red and swollen or develops red streaks.\n
+12.	Pus drains from the cut.\n
+13.	You have a fever of more than 100.4 F (in either an adult or child).\n
+    </string>
+
+    <string name="Nosebleeds">
+        <b>How do I treat a nosebleed?\n\n</b>
+Nosebleeds usually look a lot worse than they are. Most of the time you can stop the flow with a few simple steps:\n
+1.	Lean the head slightly forward, so blood doesn’t run down the throat.\n
+2.	With a tissue or washcloth, gently press the nostrils together to stop the bleeding.\n
+3.	Hold the nose for at least 5 minutes. Then check to see if the bleeding has stopped. If it hasn’t stopped, gently squeeze for another 10 minutes.\n
+
+
+    </string>
+    <string name="Splinters">
+        <b>How do I remove a splinter?\n\n</b>
+Splinters are more of an annoyance than real health problem, but if you’ve got one stuck in a finger or toe, you’ll want to get it out. How you remove a splinter depends on how deep it is.\n
+If the splinter is sticking out of the skin:\n
+1.	Wash the skin around the splinter with soap and water.\n
+2.	Clean a pair of tweezers with a cotton swab dipped in alcohol.\n
+3.	Grab the end of the splinter with the tweezers.\n
+4.	Pull it out at the same angle as the splinter went in.\n
+5.	Clean the skin again with soap and water.\n
+If the splinter is under the skin:v
+6.	Wash the skin around the splinter with soap and water.\n
+7.	Clean a needle and tweezers with alcohol.\n
+8.	Gently scrape away the skin above the splinter with the needle until you can see the top of the splinter.\n
+9.	Grab the end of the splinter with the tweezers and pull it out at the same angle it went in.\n
+10.	Clean the skin again with soap and water.\n
+
+
+    </string>
+    <string name="Animal_Bites_and_Insect_Stings">
+        <b>How do I treat animal bites and scratches?\n\n</b>
+Sometimes a seemingly friendly dog or cat can bite or scratch. If you or your child gets a bite, follow these steps to treat the wound:\n
+•	Hold a towel or gauze to the area to stop the bleeding.\n
+•	Clean the wound with soap and water.\n
+•	Cover it with a clean bandage or gauze pad.\n\n
+<b>When should I see a doctor for an animal bite?\n\n</b>
+For any animal bite, you may need an antibiotic to prevent infection. So it’s always a good idea to call your doctor, especially if you have medical conditions that weaken your immune system. Also, you should call your doctor or head to the emergency room if:\n
+•	The bite was caused by an animal you don’t know, or by any wild animal like a raccoon, skunk, or bat. You may need a tetanus or rabies vaccine.\n
+•	The bite is large, or it doesn’t stop bleeding after you’ve held pressure on it for 15 minutes. It may need to be closed with stitches.\n
+•	You think the bite may have damaged a bone, tendons, or nerves, because you can’t bend or straighten the body part or you’ve lost feeling in it.\n
+•	The wound is red, swollen, or oozing fluid.\n
+
+
+    </string>
+    <string name="Minor_Burns">
+        <b>What are the different types of burns?\n\n</b>
+Grabbing a hot pot or splashing boiling water on your skin are just two common causes of burns around the house. When you get a burn, first check to see which type it is. Some are more serious than others.\n
+•	First-degree burns are painful but minor. They turn red and may swell.\n
+•	Second-degree burns form blisters. The skin may be very red and painful.\n
+•	Third-degree burns make the skin look white or charred. The burns may not hurt because nerves have been damaged.\n\n
+    <b>How do I treat burns?\n\n</b>
+You can treat minor first-degree burns and small second-degree burns at home. Here’s what to do:\n
+•	Place the burned area under running cool water for at least 5 minutes to reduce swelling.\n
+•	Apply an antiseptic spray, antibiotic ointment, or aloe vera cream to soothe the area.\n
+•	Loosely wrap a gauze bandage around the burn.\n
+•	To relieve pain, take acetaminophen, ibuprofen, or naproxen.\n
+Never put butter on a burn or pop any blisters that form. You could damage the skin and cause an infection.\n
+
+
+    </string>
+    <string name="Sprains_and_Strains">
+        <b>What’s the difference between a sprain and strain?\n\n</b>
+Sprains and strains are common injuries. Here’s how to tell the difference:\n
+•	A sprain is a stretch or tear of a ligament, the tough tissue that connects bones and supports the joints. You’re most likely to get a sprain in the wrist or ankle. Sprains cause pain, bruising, and swelling. You may have trouble moving the joint.\n
+•	A strain is an injury to a muscle or tendon, the thick tissue that attaches muscles to bones. You’re most likely to get a strain in your back or hamstring muscles. Strains cause pain, weakness, swelling, and muscle cramps. You may have trouble moving the muscle.\n\n
+        <b>How do I treat sprains and strains?\n\n</b>
+For a mild sprain or strain:\n
+•	Rest the limb to give it a chance to heal.\n
+•	Hold ice on the area for 20 minutes at a time, four to eight times a day, to bring down swelling. Don’t use heat -- it could make the area swell even more.\n
+•	Wrap an elastic bandage or splint around the sprain or strain.\n
+•	Put a pillow under the injured body part to keep it raised.\n
+•	Take over-the-counter medicines such as ibuprofen to relieve the pain.\n
+For a more severe sprain or strain, where there’s a lot of pain, swelling, and you have trouble moving around, see your doctor. You may need crutches or physical therapy.\n
+    </string>
+    <string name="First_Aid_for_Stroke">
+
+        <b>First steps if you think someone is having a stroke\n\n</b>
+During a stroke, time is of the essence. Call emergency services and get to the hospital immediately.\n
+A stroke may cause loss of balance or unconsciousness, which may result in a fall. If you think you or someone around you may be having a stroke, follow these steps:\n
+•	Call emergency services. If you’re having stroke symptoms, have someone else call for you. Stay as calm as possible while waiting for emergency help.\n
+•	If you’re caring for someone else having a stroke, make sure they’re in a safe, comfortable position. Preferably, this should be lying on one side with their head slightly raised and supported in case they vomit.\n
+•	Check to see if they’re breathing. If they’re not breathing, perform CPR. If they’re having difficulty breathing, loosen any constrictive clothing, such as a tie or scarf.\n
+•	Talk in a calm, reassuring manner.\n
+•	Cover them with a blanket to keep them warm.\n
+•	Don’t give them anything to eat or drink.\n
+•	If the person is showing any weakness in a limb, avoid moving them.\n
+•	Observe the person carefully for any change in condition. Be prepared to tell the emergency operator about their symptoms and when they started. Be sure to mention if the person fell or hit their head.\n\n
+        <b>Know the signs of a stroke\n</b>
+Depending on the severity of the stroke, symptoms may be subtle or severe. Before you can help, you need to know what to watch for. To check for warning signs of a stroke, use the FASTacronym, which stands for:\n
+•	Face: Is the face numb or does it droop on one side?\n
+•	Arms: Is one arm numb or weaker than the other? Does one arm stay lower than the other when trying to raise both arms?\n
+•	Speech: Is speech slurred or garbled?\n
+•	Time: If you answered yes to any of the above, it’s time to call emergency services immediately.\n\n
+        <b>Other stroke symptoms include:\n\n</b>
+•	blurred vision, dim vision, or loss of vision, especially in one eye\n
+•	tingling, weakness, or numbness on one side of the body\n
+•	nausea\n
+•	loss of bladder or bowel control\n
+•	headache\n
+•	dizziness or lightheadedness\n
+•	loss of balance or consciousness\n
+If you or someone else has stroke symptoms, don’t take a wait-and-see approach. Even if symptoms are subtle or go away, take them seriously. It only takes minutes for brain cells to start dying. The risk of disability decreases if clot-busting drugs are administered within 4.5 hours, according to guidelines from the American Heart Association (AHA) and American Stroke Association (ASA). These guidelines also state that mechanical clot removals can be performed up to 24 hours after the start of stroke symptoms.
+\n
+
+    </string>
+    <string name="First_Aid_for_Fever">
+
+        <b>Treating fever in an adult\n\n</b>
+Adults with fevers of 103 F (39.4 C) or higher will generally look and act sick. The main goal of treatment is to relieve discomfort and help you get rest.\n
+
+To treat a fever at home:\n
+
+Drink plenty of fluids to stay hydrated.\n
+Dress in lightweight clothing.\n
+Use a light blanket if you feel chilled, until the chills end.\n
+Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). Follow the directions on the label.\n\n
+        <b>When to seek medical advice for an adult ? \n\n</b>
+        Seek medical care if someone with a fever has any of the following signs and symptoms : \n
+Difficulty breathing\n
+Chest pain\n
+Severe headache\n
+Confusion or agitation\n
+Abdominal pain\n
+Repeated vomiting\n
+Signs of dehydration, such as a dry mouth, decreased or dark urine, or refusal to drink fluids\n
+Skin rashes\n
+Difficulty swallowing fluids\n
+Pain with urination or pain in the back\n
+
+
+    </string>
+    <string name="Food_Poisoning_Treatment">
+
+        <b>How Is Food Poisoning Treated?\n\n</b>
+In most cases, there isn’t much your doctor can specifically do for you, and you get better on your own within a few days.\n
+Adults or children who lose a lot of fluids -- this is called dehydration -- may need to go the hospital to get an IV. This will replace your fluids and electrolytes more quickly.\n
+For severe food poisoning caused by certain bacteria, such as listeria, you may get antibiotics.\n
+But with most bacteria, you may not get any medication unless you have a weak immune system or you’re pregnant.\n
+You may also get medicine for food poisoning caused by parasites. For viruses, there’s nothing you can take.\n\n
+        <b>What Can I Do at Home?\n\n</b>
+Diarrhea and vomiting can really throw off your body’s balance of fluids and electrolytes.\n
+Electrolytes are minerals, such as sodium and potassium, that help with everything from keeping your heartbeat normal to controlling how much water is in your body.\n
+So your main job is to drink plenty of fluids. Start with ice chips or small sips if you need to. It’s also helpful to:\n
+•	Avoid food for the first few hours as your stomach settles down\n
+•	Drink water, broth, or an electrolyte solution, which will replace the minerals that you lose with vomiting and diarrhea\n
+•	Eat when you feel ready, but start with small amounts of bland, nonfatty foods such as toast, rice, and crackers\n
+•	Get plenty of rest\n
+•	Stay away from dairy, caffeine, alcohol, bubbly or fizzy drinks, or spicy and fatty foods -- they can just make everything worse\n\n
+        <b>When Should I Call My Doctor?\n\n</b>
+Though food poisoning usually goes away on its own, call your doctor if you have any signs of dehydration:\n
+•	Dry mouth or extreme thirst\n
+•	Not peeing much (or at all) or dark, concentrated urine\n
+•	Rapid heartbeat or low blood pressure\n
+•	Weakness, dizziness, or a lightheaded feeling, especially when going from lying down or sitting to standing\n
+•	Confusion\n
+Also call your doctor if you see any of these symptoms:\n
+•	Blood in your vomit or poop\n
+•	Blurry vision\n
+•	Diarrhea for more than 3 days\n
+•	Extreme pain or cramps in your belly\n
+•	Fever over 101.5 F\n
+•	Throwing up that won’t stop -- you can’t even keep liquids down\n
+•	Tingling in your arms\n
+•	Weakness in your muscles\n
+
+
+    </string>
+
+    <string name="aboutUs">
+
+        This app is useful in many ways.\n
+        The name of memebers who has developed this app are:\n\n
+
+        1. Yuvraj Chauhan\n
+        2. Meet Bhatt\n
+        3. Anuj Kanada\n
+        4. Dhruv vyas\n
+        5. Krupen Bhetaria\n
+
+
+        <b>version 1.0</b>
+
+    </string>
+
+
+</resources>
